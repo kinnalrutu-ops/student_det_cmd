@@ -1,0 +1,1 @@
+# student_det_cmd
